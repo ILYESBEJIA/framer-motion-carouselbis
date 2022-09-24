@@ -3,10 +3,10 @@ import {ArrowProps} from './types'
 
 const baseArrowStyle: React.CSSProperties = {
     position: "absolute",
-    width: "50px",
-    height: "50px",
-    backgroundColor: "rgba(0,0,0,0.5)",
-    top: "50%",
+    width: "150px",
+    height: "150px",
+    backgroundColor: "rgba(28,48,55,0.5)",
+    top: "70%",
     transform: "translateY(-50%)",
     borderRadius: "50%",
     color: "#fff",
